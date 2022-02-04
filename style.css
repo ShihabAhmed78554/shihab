@@ -11,7 +11,7 @@ h2{
 h3{
     font-size: 20px;
 }
-.header{
+.half-weidth{
     width:40%;
     float:left;
     margin: 5%;
@@ -19,6 +19,7 @@ h3{
 }
 .section img{
     width: 80%;
+    padding-bottom: 150px;
 }
 .background{
     background-image: url(images/top-banner.png);
@@ -27,3 +28,12 @@ h3{
 #height{
     height: 500px;
 }
+.header-button{
+    text-decoration: none;
+    background-image: linear-gradient( 90deg, lightsalmon, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
+
