@@ -1,41 +1,18 @@
 body{
-    font-family: 'Nunito', sans-serif;
-    margin: 0%;
+    font-family: 'Poppins';
 }
-#head-color{
+h1{
+    font-size: 60px;
+}
+.name-highlight{
     color: coral;
 }
-h2{
-    font-size: 50px;
-}
-h3{
-    font-size: 20px;
-}
-.half-weidth{
-    width:40%;
+.half-width{
+    width: 40%;
     float: left;
-    margin: 5%;
-    padding: 2%;
+    margin: 4%;
+    padding: 1%;
 }
-.section img{
-    width: 80%;
-    padding-bottom: 150px;
-}
-.background{
-    background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;
-}
-#height{
-    height: 500px;
-}
-.header-button{
-    text-decoration: none;
-    background-image: linear-gradient( 90deg, lightsalmon, tomato);
-    padding: 10px 30px;
-    border-radius: 5px;
-    color: white;
-    font-weight: 800;
-}
-.divider{
-    float: left;
+.half-width img{
+    width: 100%;
 }
