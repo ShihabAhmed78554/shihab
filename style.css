@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins';
+    margin: 0%;
 }
 h1{
     font-size: 60px;
@@ -16,3 +17,27 @@ h1{
 .half-width img{
     width: 100%;
 }
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 1000px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: coral;
+    padding: 5px 20px;
+    font-weight: 800;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(90deg,lightsalmon, tomato);
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
